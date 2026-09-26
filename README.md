@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://typingsvg.vercel.app/api/svg?width=800&height=50&backgroundOpacity=0&border=false&Style=block&lines=%5B%7B"text"%3A"sigma+sigma+boy..."%2C"font"%3A"Rock+Salt"%2C"color"%3A"%23F0222F"%2C"typingSpeed"%3A0.09%2C"deleteSpeed"%3A0.0333555703802535%7D%2C%7B"text"%3A"sigma+boy%2C+sigma+boy..."%2C"font"%3A"Rock+Salt"%2C"color"%3A"%2324103E"%2C"typingSpeed"%3A0.09%2C"deleteSpeed"%3A0.1%7D%5D" alt="Typing SVG" title="sigma sigma boy" width="600px"/>
+</div>
   <img src="https://typingsvg.vercel.app/api/svg?width=800&height=50&backgroundOpacity=0&border=false&Style=block&lines=%5B%7B"text"%3A"texto"%2C"font"%3A"Tiny5"%2C"color"%3A"%23F11435"%2C"typingSpeed"%3A0.06666666666666667%2C"deleteSpeed"%3A0.0333555703802535%7D%2C%7B"text"%3A"text."%2C"font"%3A"Tiny5"%2C"color"%3A"%2378BBC2"%2C"typingSpeed"%3A0.1%2C"deleteSpeed"%3A0.1%7D%5D" alt="Typing SVG" width=600px/></a>
 <div align="center">
 
